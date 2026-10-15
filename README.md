@@ -9,4 +9,4 @@ CUADERNO
 
 #Podcast:"Descansar como acto de rebeldía"
 
-Link del cuaderno [[cuaderno](https://notebook.google.com/notebook/aa6beab0-26a5-4a98-9c75-3dc270d8dee4]
+Link del cuaderno [[cuaderno(https://notebook.google.com/notebook/aa6beab0-26a5-4a98-9c75-3dc270d8dee4]
